@@ -1,4 +1,7 @@
 {
-    "name": "Animator Menu Extensions",
-    "version": "0.0.1"
-}
+    "name": "com.davidrymer.animatorstateeditorextensions",
+    "version": "0.0.1",
+    "displayName": "Animator State Editor Extensions",
+    "description": "Menu Extensions for AnimatorState"
+  }
+  
